@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+venv/
+.env
+.env.local
+
+# OS
+.DS_Store
+
+# Large data (optional: remove to track these; GitHub has a 100MB file limit)
+one_day_data.csv
+cleaned_data.csv
+featured_data.csv
